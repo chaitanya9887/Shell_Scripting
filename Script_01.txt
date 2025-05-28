@@ -13,3 +13,5 @@ echo "Current time and date: $current_date"
 #cat concatenate example
 
 cat file1 file2  >> output_file
+uptime
+last reboot
